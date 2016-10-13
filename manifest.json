@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "manifest_version" : 2,
   "name": "Weather Report",
@@ -19,3 +20,26 @@
     "default_popup": "popup.html"       
   }
 }
+=======
+{
+  "manifest_version" : 2,
+  "name": "Weather Report",
+  "version": "0.1",
+
+  "description": "Keep up with the Weather.",
+  "icons": { "16" : "images/48.png",
+ 			"48" : "images/48.png",
+			"128" : "images/48.png"},
+	"background": {
+    "page" : "background.html" },
+	"permissions": [
+    "geolocation",
+    "http://api.openweathermap.org/data/2.5/*"
+	],
+	"browser_action": {
+    "default_icon": "images/48.png", 
+    "default_title": "Weather Notifier",      
+    "default_popup": "popup.html"       
+  }
+}
+>>>>>>> 927ce2519a7608f1e58453f9e4ecb639bfe4c855

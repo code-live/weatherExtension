@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chrome extension to show Weather Report 
 
 * [Getting Started](#getting-started)
@@ -52,3 +53,7 @@ The main files you will need to edit are:
 - Contains the basic HTML boilerplate, edit at your will.
 - A standard (non-responsive) navbar is enabled.
 - The main content area is wrapped inside `section`.
+=======
+# weatherExtension
+to shpw live weather report
+>>>>>>> 927ce2519a7608f1e58453f9e4ecb639bfe4c855

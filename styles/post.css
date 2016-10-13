@@ -1,0 +1,41 @@
+/* Need to set specific style for .item:hover, #logo, and .tag */
+
+.item:hover, .item:hover a {
+	background:#e1fec7;
+}
+
+.tag {
+	color:#60c00b;
+}
+
+/* No more customizations necessary below this */
+
+body {
+	overflow-x:hidden;
+	margin:0;
+	padding:0;
+	background-image: url(../images/body.jpg);
+    background-size: cover;
+}
+
+#popup {
+	width:400px;
+	height:400px;
+	overflow-x:hidden;
+	padding:5px 14px 5px 0;
+}
+
+#logo {
+	float: right;
+	position: relative;
+	z-index: 100;
+	right: 0px;
+	top: 14px;
+	margin-top: -13px;
+	cursor:pointer;
+}
+
+h4 {
+	margin-top:0;
+	margin-bottom:0;
+}

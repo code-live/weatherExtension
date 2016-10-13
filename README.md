@@ -52,4 +52,3 @@ The main files you will need to edit are:
 - Contains the basic HTML boilerplate, edit at your will.
 - A standard (non-responsive) navbar is enabled.
 - The main content area is wrapped inside `section`.
-=======
